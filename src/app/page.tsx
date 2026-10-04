@@ -75,7 +75,7 @@ return ( <main id="home" className="bg-white text-gray-800">
         </p>
       </div>
 
-      <div className="max-w-3xl mx-auto text-left mt-10 space-y-5 text-lg leading-8 text-gray-200">
+      <div className="max-w-4xl mx-auto text-left mt-10 space-y-6 text-lg leading-8 text-gray-200">
         <p>
           Thankful to Christ Fellowship Edison is a Bible-centered, non-denominational,
           Asian Indian and multi-ethnic church.
@@ -105,7 +105,7 @@ return ( <main id="home" className="bg-white text-gray-800">
       </h2>
 
       <div className="bg-amber-50 border-l-4 border-amber-500 p-6 rounded-lg shadow-sm mb-10">
-        <p className="text-xl italic text-center text-slate-800">
+        <p className="max-w-3xl mx-auto text-xl italic text-center text-slate-800">
           &quot;Go therefore and make disciples of all nations...&quot;
         </p>
 
@@ -114,7 +114,7 @@ return ( <main id="home" className="bg-white text-gray-800">
         </p>
       </div>
 
-      <div className="space-y-6 text-lg leading-8 text-gray-700">
+      <div className="mx-auto space-y-6 text-lg leading-8 text-gray-700 text-left">
         <p>
           Our mission is to share the Good News of Jesus
           Christ and help people become committed disciples
@@ -154,7 +154,7 @@ return ( <main id="home" className="bg-white text-gray-800">
           Come Worship With Us
         </h2>
 
-        <p className="mt-4 text-lg text-gray-600 max-w-2xl mx-auto">
+        <p className="mt-4 text-lg leading-8 text-gray-600 max-w-4xl mx-auto text-center">
           Worship with us in person, connect with our ministry
           online, and become part of the Thankful to Christ Fellowship Edison family.
         </p>
@@ -174,7 +174,7 @@ return ( <main id="home" className="bg-white text-gray-800">
               Weekly Worship
             </h3>
 
-            <p className="mt-4 text-gray-600">
+            <p className="mt-4 text-gray-600 leading-7">
               Come together with us for worship,
               prayer, fellowship, and the Word of God.
             </p>
@@ -213,7 +213,7 @@ return ( <main id="home" className="bg-white text-gray-800">
               Watch Online
             </h3>
 
-            <p className="mt-4 text-gray-600">
+            <p className="mt-4 text-gray-600 leading-7">
               Follow our ministry online and watch sermons,
               Bible studies, worship services, and church events.
             </p>
@@ -254,7 +254,7 @@ return ( <main id="home" className="bg-white text-gray-800">
               Visit Us
             </h3>
 
-            <p className="mt-4 text-gray-600">
+            <p className="mt-4 text-gray-600 leading-7">
               We would love to worship and fellowship
               with you and your family.
             </p>
@@ -309,7 +309,7 @@ return ( <main id="home" className="bg-white text-gray-800">
         Our Founder
       </h2>
 
-      <div className="grid md:grid-cols-2 gap-12 items-center">
+      <div className="grid md:grid-cols-[300px_minmax(0,1fr)] gap-12 items-center">
         <div className="flex justify-center">
           <Image
             src="/founder.png"
@@ -328,9 +328,9 @@ return ( <main id="home" className="bg-white text-gray-800">
             Founder of Thankful to Christ Fellowship Edison
           </p>
 
-          <div className="mt-6 space-y-4 text-lg leading-8 text-gray-700">
+          <div className="mt-6 space-y-5 text-lg leading-8 text-gray-700 text-left">
             <p>
-              Thankful to Christ Fellowship Edison was established in 1979 with a vision to proclaim the Gospel of Jesus Christ, disciple believers, and build a Christ-centered community.
+              Thankful to Christ Fellowship Edison was established in 2025 with a vision to proclaim the Gospel of Jesus Christ, disciple believers, and build a Christ-centered community.
               Through decades of faithful ministry, Dr. David Chigurupati has encouraged generations of believers to deepen their faith, grow in prayer, and share the love of Christ with others.
             </p>
 
